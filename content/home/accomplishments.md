@@ -19,33 +19,68 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "DataCamp"
+  organization_url = "https://www.datacamp.com"
+  title = "Introduction to Databases in Python"
+  url = ""
+  certificate_url = "https://www.datacamp.com/statement-of-accomplishment/course/506674a84ef41c15a4618a55b58f71aee01531b6"
+  date_start = "2018-05-01"
+  date_end = ""
+  description = ""
+
+
+[[item]]
+  organization = "DataCamp"
+  organization_url = "https://www.datacamp.com"
+  title = "Intro to SQL for Data Science Course"
+  url = ""
+  certificate_url = "https://www.datacamp.com/statement-of-accomplishment/course/3030cb87197a90f75131470492d0d6ce94e5fd90"
+  date_start = "2018-02-01"
+  date_end = ""
+  description = ""
+
+
+[[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Convolutional Neural Networks"
+  url = ""
+  certificate_url = "https://www.coursera.org/account/accomplishments/verify/7ACBEQKJ3R4A"
+  date_start = "2018-02-01"
+  date_end = ""
+  description = ""
+
+
+[[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization"
+  url = ""
+  certificate_url = "https://www.coursera.org/account/accomplishments/verify/4X4T32GVQS7N"
+  date_start = "2018-01-01"
+  date_end = ""
+  description = ""
+
+
+[[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Structing Machine Learning Projects"
+  url = ""
+  certificate_url = "https://www.coursera.org/account/accomplishments/verify/VV9DS9XY74BG"
+  date_start = "2018-01-01"
+  date_end = ""
+  description = ""
+
+
+[[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
   title = "Neural Networks and Deep Learning"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  certificate_url = "https://www.coursera.org/account/accomplishments/verify/LHD5E46FG9U2"
+  date_start = "2018-01-01"
   date_end = ""
-  description = ""
-
-[[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
   description = ""
 
 +++
