@@ -1,4 +1,4 @@
 [submodule "public"]
 	path = public
 	url = git@github.com:jvansan/jvansan.github.io.git
-	branch = master
+	branch = main
